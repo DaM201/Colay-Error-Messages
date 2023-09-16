@@ -33,6 +33,9 @@
 14x50    | Error Creating Remote File or Error During **PyInstaller Exe File**
 
 
+# Fix Missing Files
+To Fix Error **-> Missing Files** you have to restart or reinstall **colay**. using that command |
+                                                                                                \|/
 ```
-ahioj 
+python colay.py --install
  ```
