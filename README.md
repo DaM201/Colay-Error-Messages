@@ -42,6 +42,24 @@ To Fix Error **-> Missing Files** you have to restart or reinstall **colay**. us
 ```
 python colay.py --install
  ```
-If you have another Error, write to me on Instagram 
+
+# Error with Colay Terminal
+
+# How To Enable Terminal
+
+Install colay
+```
+python colay.py --install
+ ```
+We need to Enable Colay Terminal
+```
+python colay.py --terminal -s -on
+ ```
+If you want off terminal
+```
+python colay.py --terminal -s -off
+ ```
+
+***If you have another Error, write to me on Instagram***
 [Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
 [Instagram](https://www.instagram.com/hnc_conporation/)
