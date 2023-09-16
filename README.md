@@ -75,6 +75,8 @@ Restoring Problem Chat **WINDOWS**->
 ```
 python colay.py -Pr "del C:\colay\usr\etc\hideproblemchat"
  ```
+![image](https://github.com/DaM201/Colay-Error-Messages/assets/68821652/2644209e-be8a-4930-bf0b-9dc84a58d8d5)
+
 Restoring Problem Chat **LINUX**->
 ```
 python colay.py -Pr "~/colay/usr/etc/hideproblemchat"
