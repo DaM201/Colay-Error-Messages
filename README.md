@@ -71,6 +71,10 @@ Hide Problem Chat type this command ->
 ```
 python colay.py -Pr "./hide"
  ```
+Restoring Problem Chat ->
+```
+python colay.py -Pr "./hide"
+ ```
 ***If you have another Error, write to me on Instagram***
 [Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
 [Instagram](https://www.instagram.com/hnc_conporation/)
