@@ -53,11 +53,11 @@ python colay.py --install
  ```
 We need to Enable Colay Terminal
 ```
-python colay.py --terminal -s -on
+python colay.py --terminal -f -on
  ```
 If you want off terminal
 ```
-python colay.py --terminal -s -off
+python colay.py --terminal -f -off
  ```
 
 ***If you have another Error, write to me on Instagram***
