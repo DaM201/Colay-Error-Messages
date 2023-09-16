@@ -2,6 +2,7 @@
 
 # Uknow Error
 
+
 16x99    | Download Error in Github
 
 11x00    | Error Creating File or File Exists
@@ -33,9 +34,14 @@
 14x50    | Error Creating Remote File or Error During **PyInstaller Exe File**
 
 
+
+
 # Fix Missing Files
-To Fix Error **-> Missing Files** you have to restart or reinstall **colay**. using that command |
-                                                                                                \|/
+To Fix Error **-> Missing Files** you have to restart or reinstall **colay**. using that command 
+                                                                                                
 ```
 python colay.py --install
  ```
+If you have another Error, write to me on Instagram 
+[Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
+[Instagram](https://www.instagram.com/hnc_conporation/)
