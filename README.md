@@ -52,13 +52,18 @@ Install colay
 python colay.py --install
  ```
 We need to Enable Colay Terminal
+![image](https://github.com/DaM201/Colay-Error-Messages/assets/68821652/24f93685-7eeb-4ef2-bdf8-43975f870e39)
+
 ```
 python colay.py --terminal -f -on
  ```
+![image](https://github.com/DaM201/Colay-Error-Messages/assets/68821652/937f78e3-c65b-4085-8fe3-45f4ff4df67e)
+
 If you want off terminal
 ```
 python colay.py --terminal -f -off
  ```
+![image](https://github.com/DaM201/Colay-Error-Messages/assets/68821652/cc8fcc24-3869-4df3-8ac1-7055d1f94a06)
 
 ***If you have another Error, write to me on Instagram***
 [Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
