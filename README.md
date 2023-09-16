@@ -65,6 +65,12 @@ python colay.py --terminal -f -off
  ```
 ![image](https://github.com/DaM201/Colay-Error-Messages/assets/68821652/cc8fcc24-3869-4df3-8ac1-7055d1f94a06)
 
+# Hide Problem Chat
+![image](https://github.com/DaM201/Colay-Error-Messages/assets/68821652/06fc04c8-3cbd-47c9-aa0e-2c02c335237b)
+Hide Problem Chat type this command ->
+```
+python colay.py -Pr "./hide"
+ ```
 ***If you have another Error, write to me on Instagram***
 [Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
 [Instagram](https://www.instagram.com/hnc_conporation/)
