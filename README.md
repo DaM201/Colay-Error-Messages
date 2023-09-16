@@ -73,7 +73,7 @@ python colay.py -Pr "./hide"
  ```
 Restoring Problem Chat **WINDOWS**->
 ```
-python colay.py -Pr "del C:\\colay\\usr\\etc\\hideproblemchat"
+python colay.py -Pr "del C:\colay\usr\etc\hideproblemchat"
  ```
 Restoring Problem Chat **LINUX**->
 ```
