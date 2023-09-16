@@ -71,9 +71,13 @@ Hide Problem Chat type this command ->
 ```
 python colay.py -Pr "./hide"
  ```
-Restoring Problem Chat ->
+Restoring Problem Chat **WINDOWS**->
 ```
-python colay.py -Pr "./hide"
+python colay.py -Pr "del C:\\colay\\usr\\etc\\hideproblemchat"
+ ```
+Restoring Problem Chat **LINUX**->
+```
+python colay.py -Pr "~/colay/usr/etc/hideproblemchat"
  ```
 ***If you have another Error, write to me on Instagram***
 [Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
